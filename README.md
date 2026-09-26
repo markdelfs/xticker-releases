@@ -2,6 +2,8 @@
 
 XTicker is a floating LED-style ticker for macOS 14 or later. The downloads below are signed and notarized by Apple.
 
+XTicker is tip-supported. Download and use it without a required payment; if you like it, [buy me a coffee](https://buymeacoffee.com/hitthedecksoftware) to support continued development.
+
 | Version | Download | Notes |
 | --- | --- | --- |
 | **1.4.0 Beta 4** | [Download the beta DMG](https://github.com/markdelfs/xticker-releases/releases/download/v1.4.0-beta.4/XTicker-1.4.0-beta.4.dmg) | Soft glass reflection on the LED ticker. [What's included](https://github.com/markdelfs/xticker-releases/releases/tag/v1.4.0-beta.4) |
