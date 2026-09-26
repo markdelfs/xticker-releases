@@ -1,5 +1,12 @@
-# XTicker releases
+# Download XTicker for Mac
 
-Public notarized downloads and the [Sparkle update feed](https://github.com/markdelfs/xticker-releases/releases/latest/download/appcast.xml) for XTicker.
+XTicker is a floating LED-style ticker for macOS 14 or later. The downloads below are signed and notarized by Apple.
 
-Source development takes place in the owner's private XTicker repository. Release assets are signed and notarized before publication.
+| Version | Download | Notes |
+| --- | --- | --- |
+| **1.4.0 Beta 1** | [Download the beta DMG](https://github.com/markdelfs/xticker-releases/releases/download/v1.4.0-beta.1/XTicker-1.4.0-beta.1.dmg) | New features for testing. [What's included](https://github.com/markdelfs/xticker-releases/releases/tag/v1.4.0-beta.1) |
+| **1.3.1 Stable** | [Download the stable DMG](https://github.com/markdelfs/xticker-releases/releases/download/v1.3.1/XTicker-1.3.1.dmg) | Recommended for people who prefer the stable release. [Release notes](https://github.com/markdelfs/xticker-releases/releases/tag/v1.3.1) |
+
+Open the downloaded DMG, then drag **XTicker** into **Applications**. If XTicker is already running, quit it before replacing the app. The beta is a separate prerelease and will not be offered through automatic updates.
+
+[Browse all releases](https://github.com/markdelfs/xticker-releases/releases) · [Stable Sparkle update feed](https://github.com/markdelfs/xticker-releases/releases/latest/download/appcast.xml)
